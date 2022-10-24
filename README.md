@@ -1,5 +1,11 @@
-### Hi there 👋
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=1000&color=2ECC40&center=true&vCenter=true&width=750&height=60&lines=Hi+there!+I'm+Josh." alt="Typing SVG" /></a></p>
 
+<p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello"></p>
+
+<h2 align = "center">I am a current computer science student at Marist College.</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaseligman&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joshuaseligman&theme=dark)
 <!--
 **joshuaseligman/joshuaseligman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
