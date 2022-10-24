@@ -2,9 +2,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello"></p>
 
-<h2 align = "center">I am a current computer science student at Marist College who loves to build cool things.</h2>
+<h3 align = "center">I am a current computer science student at Marist College who loves to build cool things.</h3>
 
-<h4>Projects I am currently working on</h4>
+<h3>Projects I am currently working on</h3>
 <ul>
   <li>Operating system that runs on the 6502 CPU architecture in TypeScript.</li>
   <li>Algorithm to solve a variation of the hospitals and residents stable matching problem in C++.</li>
