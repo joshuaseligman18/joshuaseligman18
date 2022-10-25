@@ -5,8 +5,8 @@
 <h3 align = "center">I am a current computer science student at Marist College who loves to build cool things.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-seligman-26209321b"><img height=50 src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&color=0a66c2" /></a>
-  <a href="https://joshuaseligman.net/"><img height=50 src="https://img.shields.io/badge/Personal%20Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white&color=ff4b3a" /></a>
+  <a href="https://www.linkedin.com/in/joshua-seligman-26209321b" target="_blank"><img height=50 src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&color=0a66c2" /></a>
+  <a href="https://joshuaseligman.net/" target="_blank"><img height=50 src="https://img.shields.io/badge/Personal%20Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white&color=ff4b3a" /></a>
 </p>
 
 <h3>Projects I am currently working on:</h3>
@@ -17,7 +17,7 @@
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=Digital-Passport&theme=react" />
 </p>
 
