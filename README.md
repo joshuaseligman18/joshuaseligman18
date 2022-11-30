@@ -17,8 +17,8 @@
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=Digital-Passport&theme=react" />
+  <a href="https://github.com/joshuaseligman/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman/Digital-Passport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=Digital-Passport&theme=react" /></a>
 </p>
 
 <h3>My favorite tools and technologies:</h3>
