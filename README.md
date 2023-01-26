@@ -9,13 +9,10 @@
   <a href="https://joshuaseligman.net/"><img height=50 src="https://img.shields.io/badge/Personal%20Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white&color=ff4b3a" /></a>
 </p>
 
-<!--
 <h3>Projects I am currently working on:</h3>
 <ul>
-  <li>Operating system that runs on the 6502 CPU architecture in TypeScript.</li>
-  <li>Algorithm to solve a variation of the hospitals and residents stable matching problem in C++.</li>
+  <li>Compiler built in Rust for a custom language that will ultimately be translated into 6502 instructions.</li>
 </ul>
--->
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
