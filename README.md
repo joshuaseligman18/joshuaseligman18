@@ -9,13 +9,16 @@
   <a href="https://joshuaseligman.net/"><img height=50 src="https://img.shields.io/badge/Personal%20Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white&color=ff4b3a" /></a>
 </p>
 
+<!--
 <h3>Projects I am currently working on:</h3>
 <ul>
   <li>Compiler built in Rust for a custom language that will ultimately be translated into 6502 instructions.</li>
 </ul>
+-->
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
+  <a href="https://github.com/joshuaseligman/nexus-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=nexus-compiler&theme=react"/></a>
   <a href="https://github.com/joshuaseligman/jOSh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=jOSh&theme=react" /></a>
   <a href="https://github.com/joshuaseligman/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react" /></a>
   <a href="https://github.com/joshuaseligman/Digital-Passport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=Digital-Passport&theme=react" /></a>
