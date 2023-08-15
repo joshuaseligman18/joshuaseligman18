@@ -5,7 +5,7 @@
 <h3 align = "center">I am a current computer science student at Marist College who loves to build cool things.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-seligman-26209321b"><img height=50 src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&color=0a66c2" /></a>
+  <a href="https://www.linkedin.com/in/joshuaseligman18"><img height=50 src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&color=0a66c2" /></a>
   <a href="https://joshuaseligman.net/"><img height=50 src="https://img.shields.io/badge/Personal%20Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white&color=ff4b3a" /></a>
 </p>
 
@@ -18,10 +18,10 @@
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
-  <a href="https://github.com/joshuaseligman/nexus-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=nexus-compiler&theme=react"/></a>
-  <a href="https://github.com/joshuaseligman/jOSh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=jOSh&theme=react" /></a>
-  <a href="https://github.com/joshuaseligman/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=GoVM&theme=react" /></a>
-  <a href="https://github.com/joshuaseligman/Digital-Passport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman&repo=Digital-Passport&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/nexus-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=nexus-compiler&theme=react"/></a>
+  <a href="https://github.com/joshuaseligman18/jOSh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=jOSh&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=GoVM&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/Digital-Passport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=Digital-Passport&theme=react" /></a>
 </p>
 
 <h3>My favorite tools and technologies:</h3>
@@ -40,6 +40,6 @@
   
 <h3>Cool stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaseligman&show_icons=true&theme=react" />
-  <img src="https://streak-stats.demolab.com/?user=joshuaseligman&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaseligman18&show_icons=true&theme=react" />
+  <img src="https://streak-stats.demolab.com/?user=joshuaseligman18&theme=react" />
 </p>
