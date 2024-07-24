@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello"></p>
 
-<h3 align = "center">I am a current computer science student at Marist College who loves to build cool things.</h3>
+<h3 align = "center">I am a software engineer who loves to build cool things.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshuaseligman18"><img height=50 src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&color=0a66c2" /></a>
@@ -18,6 +18,7 @@
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
+  <a href="https://github.com/joshuaseligman18/nebula-metrics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=nebula-metrics&theme=react"/></a>
   <a href="https://github.com/joshuaseligman18/nexus-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=nexus-compiler&theme=react"/></a>
   <a href="https://github.com/joshuaseligman18/jOSh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=jOSh&theme=react" /></a>
   <a href="https://github.com/joshuaseligman18/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=GoVM&theme=react" /></a>
@@ -32,7 +33,6 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
