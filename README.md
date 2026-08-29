@@ -18,11 +18,11 @@
 
 <h3>Some of my favorite past projects:</h3>
 <p align="center">
-  <a href="https://github.com/joshuaseligman18/nebula-metrics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=nebula-metrics&theme=react"/></a>
-  <a href="https://github.com/joshuaseligman18/nexus-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=nexus-compiler&theme=react"/></a>
-  <a href="https://github.com/joshuaseligman18/jOSh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=jOSh&theme=react" /></a>
-  <a href="https://github.com/joshuaseligman18/GoVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=GoVM&theme=react" /></a>
-  <a href="https://github.com/joshuaseligman18/Digital-Passport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuaseligman18&repo=Digital-Passport&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/nebula-metrics"><img src="https://github-stats-extended.vercel.app/api/pin/?username=joshuaseligman18&repo=nebula-metrics&theme=react"/></a>
+  <a href="https://github.com/joshuaseligman18/nexus-compiler"><img src="https://github-stats-extended.vercel.app/api/pin/?username=joshuaseligman18&repo=nexus-compiler&theme=react"/></a>
+  <a href="https://github.com/joshuaseligman18/jOSh"><img src="https://github-stats-extended.vercel.app/api/pin/?username=joshuaseligman18&repo=jOSh&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/GoVM"><img src="https://github-stats-extended.vercel.app/api/pin/?username=joshuaseligman18&repo=GoVM&theme=react" /></a>
+  <a href="https://github.com/joshuaseligman18/Digital-Passport"><img src="https://github-stats-extended.vercel.app/api/pin/?username=joshuaseligman18&repo=Digital-Passport&theme=react" /></a>
 </p>
 
 <h3>My favorite tools and technologies:</h3>
@@ -40,6 +40,6 @@
   
 <h3>Cool stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaseligman18&show_icons=true&theme=react" />
+  <img src="https://github-stats-extended.vercel.app/api?username=joshuaseligman18&show_icons=true&theme=react" />
   <img src="https://streak-stats.demolab.com/?user=joshuaseligman18&theme=react" />
 </p>
